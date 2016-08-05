@@ -1,5 +1,5 @@
 <%
 
-response.write "BRanch File"
+response.write "Branch File"
 
 %>
