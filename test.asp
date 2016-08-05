@@ -1,1 +1,6 @@
-<%response.write "test" %>
+<%
+
+'issue now fixed
+response.write "test" 
+
+%>
